@@ -4,7 +4,7 @@ Welcome to My first Ecommerce website built with the MERn Stack (MongoDB, Expres
 
 ## Getting Started
 
-Visit the deployed project at [Ecommerce Website]((https://complete-ecom.onrender.com/))
+Visit the deployed project at [Ecommerce Website](https://complete-ecom.onrender.com/)
 
 Clone this repository to your local machine:
 
